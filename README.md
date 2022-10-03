@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sourabhlokhande
-- 👀 I’m interested in coding
+- 👀 I’m fullstack Developer 
 - 🌱 I’m currently working on .NetCore, microservices, angular, azure
 - 📫 How to reach me : sourabhlokhande08@gmail.com
 
